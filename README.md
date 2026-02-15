@@ -2,7 +2,7 @@
   <img src="avatar.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+%5BSolide AZE%5D;Welcome+to+my+Profile!;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+%5BSolide+AZE%5D;Welcome+to+my+Profile!;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
   </h1>
   
 </div>
