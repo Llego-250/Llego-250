@@ -19,13 +19,6 @@ const developer = {
     name: "AZE Solide",
     location: "Kigali, Rwanda 🇷🇼",
     role: "Software Developer",
-    code: ["JavaScript", "TypeScript", "PHP", "Java"],
-    technologies: {
-        frontend: ["React", "Vue", "HTML/CSS"],
-        backend: ["Node.js", "Java", "Django"],
-        databases: ["PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "VS Code"]
-    },
     currentFocus: "Building scalable web applications",
     funFact: "I code faster than I debug life! 😄"
 };
@@ -37,7 +30,7 @@ const developer = {
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,java,html,css,tailwind,vue,postgres,mysql,git,github,docker,aws,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,java,html,css,tailwind,vue,postgres,mysql,git,github,docker,aws,vscode,nodejs,php&perline=10" />
 
 </div>
 
