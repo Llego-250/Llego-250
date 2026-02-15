@@ -8,7 +8,7 @@
 
 <div align="center">
   
-### 🚀 About Me
+### ![alt text](image-1.png) About Me
 
 </div>
 
