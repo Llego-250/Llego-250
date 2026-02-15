@@ -57,16 +57,6 @@ const developer = {
 ---
 
 <div align="center">
-
-### 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
   
 **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
