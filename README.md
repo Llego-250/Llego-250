@@ -56,18 +56,6 @@ const developer = {
 <div align="center">
 
 
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Llego-250&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
