@@ -8,7 +8,7 @@
 
 <div align="center">
   
-##  About Me
+###  About Me
 
 </div>
 
@@ -26,7 +26,7 @@ const developer = {
 
 <div align="center">
 
-##  Tech Stack
+###  Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,java,html,css,tailwind,vue,postgres,mysql,git,github,docker,aws,vscode,nodejs,php&perline=10" />
 
@@ -36,7 +36,7 @@ const developer = {
 
 <div align="center">
 
-## GitHub Stats
+### GitHub Stats
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Llego-250&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
@@ -47,7 +47,7 @@ const developer = {
 <div align="center">
 
 
-## Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Llego250)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://llegoportfolio.vercel.app/)
