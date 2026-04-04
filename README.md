@@ -28,7 +28,7 @@ const developer = {
 
 ###  Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,java,html,css,tailwind,vue,postgres,mysql,git,github,docker,Kotlin,aws,vscode,nodejs,php&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,java,html,css,tailwind,vue,postgres,mysql,git,github,docker,kotlin,aws,vscode,nodejs,php&perline=10" />
 
 </div>
 
