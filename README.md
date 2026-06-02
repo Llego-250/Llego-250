@@ -36,16 +36,6 @@ const developer = {
 
 <div align="center">
 
-### GitHub Stats
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Llego-250&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-
-</div>
-
----
-
-<div align="center">
-
 
 ### Connect with Me
 
